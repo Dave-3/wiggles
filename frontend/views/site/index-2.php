@@ -1,5 +1,4 @@
 
-        <!-- header end -->
         <!-- Start Slider Area -->
         <div class="intro-area intro-home">
             <div class="bg-wrapper">

@@ -76,9 +76,9 @@ AppAsset::register($this);
                                 <div class="footer-head">
                                     <h4>Information</h4> 
                                     <div class="footer-contacts">
-										<p><span>Tel :</span> +0890-564-5644</p>
-										<p><span>Email :</span> info@lopard3.com</p>
-										<p><span>Location :</span> House- 65/4, London</p>
+										<p><span>Tel :</span> +254727309037</p>
+										<p><span>Email :</span>  tech.wiggles@gmail.com</p>
+										<p><span>Location :</span> Western Heights|10th Floor|Karuna Rd|Westlands</p>
 									</div> 
                                     <div class="footer-icons">
                                         <ul>

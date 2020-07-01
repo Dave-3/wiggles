@@ -11,8 +11,8 @@ use yii\helpers\Url;
                         <div class=" col-md-9 col-sm-9">
                             <div class="topbar-left">
                                 <ul>
-                                    <li><a href="#"><i class="fa fa-envelope"></i> info@lopard3.com</a></li>
-                                    <li><a href="#"><i class="fa fa-phone-square"></i> +3234-7665545</a></li>
+                                    <li><a href="#"><i class="fa fa-envelope"></i> tech.wiggles@gmail.com</a></li>
+                                    <li><a href="#"><i class="fa fa-phone-square"></i> +254727309037</a></li>
                                     <li><a href="#"><i class="fa fa-clock-o"></i> Mon - Fri: 10:00 - 18:00</a></li>
                                 </ul>  
                             </div>
@@ -56,43 +56,32 @@ use yii\helpers\Url;
                                     <div class="main-menu">
                                         <ul class="nav navbar-nav navbar-right">
                                             <li><a class="pagess" href="<?= Url::to(["site/index-2"])?>">Home</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="<?= Url::to(["site/index-2"])?>">Home 01</a></li>
-                                                    <li><a href="<?= Url::to(["site/index-3"])?>">Home 02</a></li>
-                                                    <li><a href="<?= Url::to(["site/index-4"])?>">Home 03</a></li>
-                                                    
-                                                </ul>
+                                                
                                             </li>
-                                            <li><a class="pagess" href="#">Pages</a>
-                                                <ul class="sub-menu">
-                                                   <li><a href="<?= Url::to(["site/about"])?>">About</a></li>
-                                                    <li><a href="<?= Url::to(["site/team"])?>">team</a></li>
-                                                    <li><a href="<?= Url::to(["site/faq"])?>">FAQ</a></li>
-                                                    <li><a href="<?= Url::to(["site/review"])?>">Review</a></li>
-                                                    <li><a href="<?= Url::to(["site/pricing"])?>">Pricing</a></li>
-                                                </ul>
+                                            <li><a class="pagess" href="<?= Url::to(["about/index"])?>">About</a>
+                                                
                                             </li>
                                             <li><a class="pagess" href="#">Services</a>
                                                 <ul class="sub-menu">
-                                                    <li><a href="<?= Url::to(["site/service"])?>">All services</a></li>
-                                                    <li><a href="<?= Url::to(["site/single-service"])?>">Service-details</a></li>
+                                                    <li><a href="<?= Url::to(["services/index"])?>">App Development</a></li>
+                                                    <li><a href="<?= Url::to(["services/software-dev"])?>">Software Development</a></li>
+                                                    <li><a href="<?= Url::to(["services/ict-consult"])?>">ICT Consultancy</a></li>
+                                                    <li><a href="<?= Url::to(["services/pay-inter"])?>">Payment Intergration</a></li>
+                                                    <li><a href="<?= Url::to(["services/dig-market"])?>">Digital Marketing</a></li>
+                                                    <li><a href="<?= Url::to(["services/web-design"])?>">Web Development</a></li>
                                                 </ul>
                                             </li>
-                                            <li><a class="pagess" href="#">Works</a>
+                                            <li><a class="pagess" href="#">Products</a>
                                                 <ul class="sub-menu">
-                                                    <li><a href="<?= Url::to(["site/project"])?>">Projects 01</a></li>
-                                                    <li><a href="<?= Url::to(["site/project-2"])?>">Projects 02</a></li>
-                                                    <li><a href="<?= Url::to(["site/single-project"])?>">Project details</a></li>
+                                                    <li><a href="#">ERP</a></li>
+                                                    <li><a href="#">DukaLink</a></li>
+                                                    <li><a href="#">Odoo</a></li>
                                                 </ul>
                                             </li>
-                                            <li><a class="pagess" href="#">Blog</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="<?= Url::to(["site/blog"])?>">Blog grid</a></li>
-                                                    <li><a href="<?= Url::to(["site/blog-sidebar"])?>">Blog Sidebar</a></li>
-                                                    <li><a href="<?= Url::to(["site/blog-details"])?>">Blog Details</a></li>
-                                                </ul>
+                                            <li><a class="pagess" href="<?= Url::to(["blog/index"])?>">Blog</a>
+                                                
                                             </li>
-                                            <li><a href="contact.html">contacts</a></li>
+                                            <li><a href="<?= Url::to(["site/contact"])?>">contacts</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -150,7 +139,7 @@ use yii\helpers\Url;
                                                 <li><a href="blog-details.html">Blog Details</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="contact.html">contacts</a></li>
+                                        <li><a href="<?= Url::to(["site/contact"])?>">contacts</a></li>
                                     </ul>
                                 </nav>
                             </div>					
