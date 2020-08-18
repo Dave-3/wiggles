@@ -30,7 +30,7 @@
 							<article class="blog-post-wrapper">
 								<div class="blog-banner">
 									<a href="#" class="blog-images">
-										<img src="img/blog/b1.jpg" alt="">
+										<img src="assests/theme/img/blog/b1.jpg" alt="">
 									</a>
 									<div class="blog-content">
 										<div class="blog-meta">
@@ -56,7 +56,7 @@
 										<h5>With more and more people trading with this digital </h5>
 										<p>The universal acceptance of Consultation has given a tremendous opportunity for merchants to do crossborder transactions instantly and at reduced cost.Consultations are slowly gaining immense recognition and are growing phenomenally with more..</p>
 										<div class="img-blog">
-										    <img src="img/blog/b3.jpg" alt="">
+										    <img src="assests/theme/img/blog/b3.jpg" alt="">
 										</div>
 										<p>The universal acceptance of Consultation has given a tremendous opportunity for merchants to do crossborder transactions instantly and at reduced cost.Consultations are slowly gaining immense recognition and are growing phenomenally with more..</p>
 									</div>
@@ -72,7 +72,7 @@
                                     <div class="recent-single-post">
                                         <div class="post-img">
                                             <a href="#">
-                                                <img src="img/blog/b1.jpg" alt="">
+                                                <img src="assests/theme/img/blog/b1.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="pst-content">
@@ -87,7 +87,7 @@
                                     <div class="recent-single-post">
                                         <div class="post-img">
                                             <a href="#">
-                                                <img src="img/blog/b2.jpg" alt="">
+                                                <img src="assests/theme/img/blog/b2.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="pst-content">
@@ -111,7 +111,7 @@
 											<li>
 												<div class="comments-details">
 													<div class="comments-list-img">
-														<img src="img/blog/avater2.png" alt="post-author">
+														<img src="assests/theme/img/blog/avater2.png" alt="post-author">
 													</div>
 													<div class="comments-content-wrap">
 														<span>
@@ -127,7 +127,7 @@
 											<li class="threaded-comments">
 												<div class="comments-details">
 													<div class="comments-list-img">
-														<img src="img/blog/avater1.png" alt="post-author">
+														<img src="assests/theme/img/blog/avater1.png" alt="post-author">
 													</div>
 													<div class="comments-content-wrap">
 														<span>
@@ -143,7 +143,7 @@
 											<li>
 												<div class="comments-details">
 													<div class="comments-list-img">
-														<img src="img/blog/avater2.png" alt="post-author">
+														<img src="assests/theme/img/blog/avater2.png" alt="post-author">
 													</div>
 													<div class="comments-content-wrap">
 														<span>
@@ -159,7 +159,7 @@
 											<li class="threaded-comments">
 												<div class="comments-details">
 													<div class="comments-list-img">
-														<img src="img/blog/avater1.png" alt="post-author">
+														<img src="assests/theme/img/blog/avater1.png" alt="post-author">
 													</div>
 													<div class="comments-content-wrap">
 														<span>
@@ -241,7 +241,7 @@
 											<div class="recent-single-post">
 												<div class="post-img">
 													<a href="#">
-														<img src="img/blog/b1.jpg" alt="">
+														<img src="assests/theme/img/blog/b1.jpg" alt="">
 													</a>
 												</div>
 												<div class="pst-content">
@@ -256,7 +256,7 @@
 											<div class="recent-single-post">
 												<div class="post-img">
 													<a href="#">
-														<img src="img/blog/b2.jpg" alt="">
+														<img src="assests/theme/img/blog/b2.jpg" alt="">
 													</a>
 												</div>
 												<div class="pst-content">
@@ -271,7 +271,7 @@
 											<div class="recent-single-post">
 												<div class="post-img">
 													<a href="#">
-														<img src="img/blog/b3.jpg" alt="">
+														<img src="assests/theme/img/blog/b3.jpg" alt="">
 													</a>
 												</div>
 												<div class="pst-content">
@@ -286,7 +286,7 @@
 											<div class="recent-single-post">
 												<div class="post-img">
 													<a href="#">
-														<img src="img/blog/b4.jpg" alt="">
+														<img src="assests/theme/img/blog/b4.jpg" alt="">
 													</a>
 												</div>
 												<div class="pst-content">

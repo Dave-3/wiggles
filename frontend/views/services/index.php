@@ -26,13 +26,13 @@
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="project-inner project-carousel-2">
                             <div class="project-image">
-                                <img src="img/project/1.jpg" alt="">
+                                <img src="assests/theme/img/project/1.jpg" alt="">
                             </div>
                             <div class="project-image">
-                                <img src="img/project/2.jpg" alt="">
+                                <img src="assests/theme/img/project/2.jpg" alt="">
                             </div>
                             <div class="project-image">
-                                <img src="img/project/3.jpg" alt="">
+                                <img src="assests/theme/img/project/3.jpg" alt="">
                             </div>
                         </div>
                     </div>

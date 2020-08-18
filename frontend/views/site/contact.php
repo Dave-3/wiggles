@@ -92,7 +92,7 @@ $this->params['breadcrumbs'][] = $this->title;
                 <div class="row">
                      <div class="col-md-6 col-sm-6 col-xs-12">
                          <div class="contact-images">
-                             <img src="img/about/cb1.jpg" alt="">
+                             <img src="assests/theme/img/about/cb1.jpg" alt="">
                          </div>
                     </div>
                     <!-- Start Left contact -->

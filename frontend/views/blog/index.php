@@ -29,7 +29,7 @@
                             <div class="single-blog ">
                                <div class="blog-image">
 									<a class="image-scale" href="#">
-										<img src="img/blog/b1.jpg" alt="">
+										<img src="assests/theme/img/blog/b1.jpg" alt="">
 									</a>
 								</div>
                                 <div class="blog-content">
@@ -61,7 +61,7 @@
                             <div class="single-blog ">
                                <div class="blog-image">
 									<a class="image-scale" href="#">
-										<img src="img/blog/b2.jpg" alt="">
+										<img src="assests/theme/img/blog/b2.jpg" alt="">
 									</a>
 								</div>
                                 <div class="blog-content">
@@ -91,7 +91,7 @@
                             <div class="single-blog ">
                                 <div class="blog-image">
 									<a class="image-scale" href="#">
-										<img src="img/blog/b3.jpg" alt="">
+										<img src="assests/theme/img/blog/b3.jpg" alt="">
 									</a>
 								</div>
                                 <div class="blog-content">
@@ -122,7 +122,7 @@
                             <div class="single-blog">
                                 <div class="blog-image">
 									<a class="image-scale" href="#">
-										<img src="img/blog/b4.jpg" alt="">
+										<img src="assests/theme/img/blog/b4.jpg" alt="">
 									</a>
 								</div>
                                 <div class="blog-content">
@@ -153,7 +153,7 @@
                             <div class="single-blog ">
                                 <div class="blog-image">
 									<a class="image-scale" href="#">
-										<img src="img/blog/b5.jpg" alt="">
+										<img src="assests/theme/img/blog/b5.jpg" alt="">
 									</a>
 								</div>
                                 <div class="blog-content">
@@ -183,7 +183,7 @@
                             <div class="single-blog ">
                                 <div class="blog-image">
 									<a class="image-scale" href="#">
-										<img src="img/blog/b6.jpg" alt="">
+										<img src="assests/theme/img/blog/b6.jpg" alt="">
 									</a>
 								</div>
                                 <div class="blog-content">

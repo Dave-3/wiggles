@@ -40,7 +40,7 @@ use yii\helpers\Url;
                             <div class="logo">
                                 <!-- Brand -->
                                 <a class="navbar-brand " href="index-2.html">
-                                    <img src="img/logo/logo2.png" alt="">
+                                    <img src="assests/theme/img/logo/logo2.png" alt="">
                                 </a>
                             </div>
                             <!-- logo end -->
@@ -99,7 +99,7 @@ use yii\helpers\Url;
                         <div class="col-md-12">
                             <div class="mobile-menu">
                                 <div class="logo">
-                                    <a href="index-2.html"><img src="img/logo/logo2.png" alt="" /></a>
+                                    <a href="index-2.html"><img src="assests/theme/img/logo/logo2.png" alt="" /></a>
                                 </div>
                                 <nav id="dropdown">
                                     <ul>

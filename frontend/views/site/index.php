@@ -1,7 +1,7 @@
 <!-- Start Slider Area -->
         <div class="intro-area intro-home">
             <div class="bg-wrapper">
-            	<img src="img/background/bg.jpg" alt="">
+            	<img src="assests/theme/img/background/bg.jpg" alt="">
             </div>
 			<div class="intro-content">
 				<div class="slider-content">
@@ -26,7 +26,7 @@
 							<div class="col-md-6 col-sm-6 hidden-xs">
 								<div class="slide-images-inner wow fadeInUp" data-wow-delay="0.5s">
                                     <div class="slide-images">
-                                        <img src="img/slider/s1.png" alt="">
+                                        <img src="assests/theme/img/slider/s1.png" alt="">
                                     </div>
 								</div>
 							</div>
@@ -42,7 +42,7 @@
                 <div class="row">
                     <div class="col-md-6 col-sm-6 col-xs-12">
                         <div class="about-content">
-                            <img src="img/about/ab.png" alt="">
+                            <img src="assests/theme/img/about/ab.png" alt="">
                         </div>
                     </div>
                    <div class="col-md-6 col-sm-6 col-xs-12">
@@ -78,7 +78,7 @@
                         <div class="col-md-4 col-sm-6 col-xs-12">
                             <div class="single-service">
                                 <div class="service-img">
-                                    <img src="img/service/w1.png" alt="">
+                                    <img src="assests/theme/img/service/w1.png" alt="">
                                 </div>
                                 <div class="service-content">
                                     <h4><a href="#">Data Preparation</a></h4>
@@ -90,7 +90,7 @@
                         <div class="col-md-4 col-sm-6 col-xs-12">
                             <div class="single-service text-service">
                                 <div class="service-img">
-                                    <img src="img/service/w2.png" alt="">
+                                    <img src="assests/theme/img/service/w2.png" alt="">
                                 </div>
                                 <div class="service-content">
                                     <h4><a href="#">AI development</a></h4>
@@ -102,7 +102,7 @@
                         <div class="col-md-4 col-sm-6 col-xs-12">
                             <div class="single-service">
                                 <div class="service-img">
-                                    <img src="img/service/w3.png" alt="">
+                                    <img src="assests/theme/img/service/w3.png" alt="">
                                 </div>
                                 <div class="service-content">
                                     <h4><a href="#">Digital ecommerce</a></h4>
@@ -114,7 +114,7 @@
                         <div class="col-md-4 col-sm-6 col-xs-12">
                             <div class="single-service text-service">
                                 <div class="service-img">
-                                    <img src="img/service/w4.png" alt="">
+                                    <img src="assests/theme/img/service/w4.png" alt="">
                                 </div>
                                 <div class="service-content">
                                     <h4><a href="#">Consumer technology</a></h4>
@@ -126,7 +126,7 @@
                         <div class="col-md-4 col-sm-6 col-xs-12">
                             <div class="single-service">
                                 <div class="service-img">
-                                    <img src="img/service/w5.png" alt="">
+                                    <img src="assests/theme/img/service/w5.png" alt="">
                                 </div>
                                 <div class="service-content">
                                     <h4><a href="#">Big data Service</a></h4>
@@ -183,7 +183,7 @@
 									<div class="single-machine row">
                                         <div class="col-md-6 col-sm-6 col-xs-12">
                                             <div class="tabe-img">
-                                                <img src="img/service/s1.png" alt="">
+                                                <img src="assests/theme/img/service/s1.png" alt="">
                                             </div>
 										</div>
                                         <div class="col-md-6 col-sm-6 col-xs-12">
@@ -206,7 +206,7 @@
 									<div class="single-machine row">
                                         <div class="col-md-6 col-sm-6 col-xs-12">
                                             <div class="tabe-img">
-                                                <img src="img/service/s2.png" alt="">
+                                                <img src="assests/theme/img/service/s2.png" alt="">
                                             </div>
 										</div>
                                         <div class="col-md-6 col-sm-6 col-xs-12">
@@ -229,7 +229,7 @@
 									<div class="single-machine row">
                                         <div class="col-md-6 col-sm-6 col-xs-12">
                                             <div class="tabe-img">
-                                                <img src="img/service/s3.png" alt="">
+                                                <img src="assests/theme/img/service/s3.png" alt="">
                                             </div>
 										</div>
                                         <div class="col-md-6 col-sm-6 col-xs-12">
@@ -252,7 +252,7 @@
 									<div class="single-machine row">
                                         <div class="col-md-6 col-sm-6 col-xs-12">
                                             <div class="tabe-img">
-                                                <img src="img/service/s4.png" alt="">
+                                                <img src="assests/theme/img/service/s4.png" alt="">
                                             </div>
 										</div>
                                         <div class="col-md-6 col-sm-6 col-xs-12">
@@ -296,7 +296,7 @@
                             <!-- fun_text  -->
                             <div class="single-achive">
                                 <div class="achive-image">
-                                    <img src="img/about/achive1.png" alt="">
+                                    <img src="assests/theme/img/about/achive1.png" alt="">
                                 </div>
                                 <div class="achivement-text">
                                     <span class="achive-number">10+</span>
@@ -308,7 +308,7 @@
                             <!-- fun_text  -->
                             <div class="single-achive">
                                 <div class="achive-image">
-                                    <img src="img/about/achive2.png" alt="">
+                                    <img src="assests/theme/img/about/achive2.png" alt="">
                                 </div>
                                 <div class="achivement-text">
                                     <span class="achive-number">07</span>
@@ -320,7 +320,7 @@
                             <!-- fun_text  -->
                             <div class="single-achive">
                                 <div class="achive-image">
-                                    <img src="img/about/achive3.png" alt="">
+                                    <img src="assests/theme/img/about/achive3.png" alt="">
                                 </div>
                                 <div class="achivement-text">
                                     <span class="achive-number">400+</span>
@@ -337,7 +337,7 @@
 						    <div class="digital-services">
 						        <div class="digital-wel s1-item">
                                     <div class="digital-img">
-                                        <a class="digital-icon" href="#"><img src="img/icon/lopard1.png" alt=""></a>
+                                        <a class="digital-icon" href="#"><img src="assests/theme/img/icon/lopard1.png" alt=""></a>
                                     </div>
 									<div class="digital-content">
 										<h4>Industries & manufacturing</h4>
@@ -348,7 +348,7 @@
 							<div class="digital-services">
 								<div class="digital-wel s2-item">
                                     <div class="digital-img">
-                                        <a class="digital-icon" href="#"><img src="img/icon/lopard2.png" alt=""></a>
+                                        <a class="digital-icon" href="#"><img src="assests/theme/img/icon/lopard2.png" alt=""></a>
                                     </div>
 									<div class="digital-content">
 										<h4>Automobile & transportation</h4>
@@ -359,7 +359,7 @@
 							<div class="digital-services">
 								<div class="digital-wel s4-item">
                                     <div class="digital-img">
-                                        <a class="digital-icon" href="#"><img src="img/icon/lopard3.png" alt=""></a>
+                                        <a class="digital-icon" href="#"><img src="assests/theme/img/icon/lopard3.png" alt=""></a>
                                     </div>
 									<div class="digital-content">
 										<h4>Food & agriculture</h4>
@@ -370,7 +370,7 @@
 							<div class="digital-services">
 								<div class="digital-wel s3-item">
                                     <div class="digital-img">
-                                        <a class="digital-icon" href="#"><img src="img/icon/lopard4.png" alt=""></a>
+                                        <a class="digital-icon" href="#"><img src="assests/theme/img/icon/lopard4.png" alt=""></a>
                                     </div>
 									<div class="digital-content">
 										<h4>Health & humanbody</h4>
@@ -381,7 +381,7 @@
 							<div class="digital-services">
 								<div class="digital-wel s5-item">
                                     <div class="digital-img">
-                                        <a class="digital-icon" href="#"><img src="img/icon/lopard5.png" alt=""></a>
+                                        <a class="digital-icon" href="#"><img src="assests/theme/img/icon/lopard5.png" alt=""></a>
                                     </div>
 									<div class="digital-content">
 										<h4>Media & entertainment</h4>
@@ -413,10 +413,10 @@
                             <div class="single-awesome-project">
                                 <div class="awesome-img">
                                     <a href="#">
-                                        <img src="img/project/1.jpg" alt="" />
+                                        <img src="assests/theme/img/project/1.jpg" alt="" />
                                     </a>
                                     <div class="add-actions text-center">
-                                        <a class="venobox" data-gall="myGallery" href="img/project/1.jpg">
+                                        <a class="venobox" data-gall="myGallery" href="assests/theme/img/project/1.jpg">
                                             <i class="port-icon ti-zoom-in"></i>
                                         </a>
                                     </div>
@@ -432,10 +432,10 @@
                             <div class="single-awesome-project">
                                 <div class="awesome-img">
                                     <a href="#">
-                                        <img src="img/project/2.jpg" alt="" />
+                                        <img src="assests/theme/img/project/2.jpg" alt="" />
                                     </a>
                                     <div class="add-actions text-center">
-                                        <a class="venobox" data-gall="myGallery" href="img/project/2.jpg">
+                                        <a class="venobox" data-gall="myGallery" href="assests/theme/img/project/2.jpg">
                                             <i class="port-icon ti-zoom-in"></i>
                                         </a>
                                     </div>
@@ -452,10 +452,10 @@
                             <div class="single-awesome-project">
                                 <div class="awesome-img">
                                     <a href="#">
-                                        <img src="img/project/3.jpg" alt="" />
+                                        <img src="assests/theme/img/project/3.jpg" alt="" />
                                     </a>
                                     <div class="add-actions text-center">
-                                        <a class="venobox" data-gall="myGallery" href="img/project/3.jpg">
+                                        <a class="venobox" data-gall="myGallery" href="assests/theme/img/project/3.jpg">
                                             <i class="port-icon ti-zoom-in"></i>
                                         </a>
                                     </div>
@@ -472,10 +472,10 @@
                             <div class="single-awesome-project">
                                 <div class="awesome-img">
                                     <a href="#">
-                                        <img src="img/project/4.jpg" alt="" />
+                                        <img src="assests/theme/img/project/4.jpg" alt="" />
                                     </a>
                                     <div class="add-actions text-center">
-                                        <a class="venobox" data-gall="myGallery" href="img/project/4.jpg">
+                                        <a class="venobox" data-gall="myGallery" href="assests/theme/img/project/4.jpg">
                                             <i class="port-icon ti-zoom-in"></i>
                                         </a>
                                     </div>
@@ -492,10 +492,10 @@
                             <div class="single-awesome-project">
                                 <div class="awesome-img">
                                     <a href="#">
-                                        <img src="img/project/5.jpg" alt="" />
+                                        <img src="assests/theme/img/project/5.jpg" alt="" />
                                     </a>
                                     <div class="add-actions text-center">
-                                        <a class="venobox" data-gall="myGallery" href="img/project/5.jpg">
+                                        <a class="venobox" data-gall="myGallery" href="assests/theme/img/project/5.jpg">
                                             <i class="port-icon ti-zoom-in"></i>
                                         </a>
                                     </div>
@@ -544,7 +544,7 @@
                                                 <p>When replacing a multi-lined selection of text, the generated dummy text maintains the amount of lines. When replacing a selection. help agencies.</p>
                                             </div>
                                             <div class="testi-img ">
-                                                <img src="img/review/1.jpg" alt="">
+                                                <img src="assests/theme/img/review/1.jpg" alt="">
                                                 <div class="guest-details">
                                                     <h4>Hamilton</h4>
                                                     <span class="guest-rev">Clients - <a href="#">General customer</a></span>
@@ -566,7 +566,7 @@
                                                 <p>When replacing a multi-lined selection of text, the generated dummy text maintains the amount of lines. When replacing a selection. help agencies.</p>
                                             </div>
                                             <div class="testi-img ">
-                                                <img src="img/review/2.jpg" alt="">
+                                                <img src="assests/theme/img/review/2.jpg" alt="">
                                                 <div class="guest-details">
                                                     <h4>Angel lima</h4>
                                                     <span class="guest-rev">Clients - <a href="#">General customer</a></span>
@@ -588,7 +588,7 @@
                                                 <p>When replacing a multi-lined selection of text, the generated dummy text maintains the amount of lines. When replacing a selection. help agencies.</p>
                                             </div>
                                             <div class="testi-img ">
-                                                <img src="img/review/3.jpg" alt="">
+                                                <img src="assests/theme/img/review/3.jpg" alt="">
                                                 <div class="guest-details">
                                                     <h4>Arthur Doil</h4>
                                                     <span class="guest-rev">Clients - <a href="#">General customer</a></span>
@@ -610,7 +610,7 @@
                                                 <p>When replacing a multi-lined selection of text, the generated dummy text maintains the amount of lines. When replacing a selection. help agencies.</p>
                                             </div>
                                             <div class="testi-img ">
-                                                <img src="img/review/4.jpg" alt="">
+                                                <img src="assests/theme/img/review/4.jpg" alt="">
                                                 <div class="guest-details">
                                                     <h4>Gabriel Hank</h4>
                                                     <span class="guest-rev">Clients - <a href="#">General customer</a></span>
@@ -645,7 +645,7 @@
                             <div class="single-blog">
                                <div class="blog-image">
 									<a class="image-scale" href="#">
-										<img src="img/blog/b1.jpg" alt="">
+										<img src="assests/theme/img/blog/b1.jpg" alt="">
 									</a>
 								</div>
                                 <div class="blog-content">
@@ -675,7 +675,7 @@
                             <div class="single-blog">
                                <div class="blog-image">
 									<a class="image-scale" href="#">
-										<img src="img/blog/b2.jpg" alt="">
+										<img src="assests/theme/img/blog/b2.jpg" alt="">
 									</a>
 								</div>
                                 <div class="blog-content">
@@ -703,7 +703,7 @@
                             <div class="single-blog">
                                 <div class="blog-image">
 									<a class="image-scale" href="#">
-										<img src="img/blog/b3.jpg" alt="">
+										<img src="assests/theme/img/blog/b3.jpg" alt="">
 									</a>
 								</div>
                                 <div class="blog-content">
@@ -732,7 +732,7 @@
                             <div class="single-blog">
                                 <div class="blog-image">
 									<a class="image-scale" href="#">
-										<img src="img/blog/b4.jpg" alt="">
+										<img src="assests/theme/img/blog/b4.jpg" alt="">
 									</a>
 								</div>
                                 <div class="blog-content">

@@ -83,7 +83,7 @@
                 <div class="row">
                     <div class="col-md-6 col-sm-6 col-xs-12">
                         <div class="about-content">
-                            <img src="img/about/ab.png" alt="">
+                            <img src="assests/theme/img/about/ab.png" alt="">
                         </div>
                     </div>
                    <div class="col-md-6 col-sm-6 col-xs-12">
@@ -121,7 +121,7 @@
                             <!-- fun_text  -->
                             <div class="single-achive">
                                 <div class="achive-image">
-                                    <img src="img/about/achive1.png" alt="">
+                                    <img src="assests/theme/img/about/achive1.png" alt="">
                                 </div>
                                 <div class="achivement-text">
                                     <span class="achive-number">10+</span>
@@ -133,7 +133,7 @@
                             <!-- fun_text  -->
                             <div class="single-achive">
                                 <div class="achive-image">
-                                    <img src="img/about/achive2.png" alt="">
+                                    <img src="assests/theme/img/about/achive2.png" alt="">
                                 </div>
                                 <div class="achivement-text">
                                     <span class="achive-number">07</span>
@@ -145,7 +145,7 @@
                             <!-- fun_text  -->
                             <div class="single-achive">
                                 <div class="achive-image">
-                                    <img src="img/about/achive3.png" alt="">
+                                    <img src="assests/theme/img/about/achive3.png" alt="">
                                 </div>
                                 <div class="achivement-text">
                                     <span class="achive-number">400+</span>
@@ -162,7 +162,7 @@
 						    <div class="digital-services">
 						        <div class="digital-wel s1-item">
                                     <div class="digital-img">
-                                        <a class="digital-icon" href="#"><img src="img/icon/lopard1.png" alt=""></a>
+                                        <a class="digital-icon" href="#"><img src="assests/theme/img/icon/lopard1.png" alt=""></a>
                                     </div>
 									<div class="digital-content">
 										<h4>Industries & manufacturing</h4>
@@ -173,7 +173,7 @@
 							<div class="digital-services">
 								<div class="digital-wel s2-item">
                                     <div class="digital-img">
-                                        <a class="digital-icon" href="#"><img src="img/icon/lopard2.png" alt=""></a>
+                                        <a class="digital-icon" href="#"><img src="assests/theme/img/icon/lopard2.png" alt=""></a>
                                     </div>
 									<div class="digital-content">
 										<h4>Automobile & transportation</h4>
@@ -184,7 +184,7 @@
 							<div class="digital-services">
 								<div class="digital-wel s4-item">
                                     <div class="digital-img">
-                                        <a class="digital-icon" href="#"><img src="img/icon/lopard3.png" alt=""></a>
+                                        <a class="digital-icon" href="#"><img src="assests/theme/img/icon/lopard3.png" alt=""></a>
                                     </div>
 									<div class="digital-content">
 										<h4>Food & agriculture</h4>
@@ -195,7 +195,7 @@
 							<div class="digital-services">
 								<div class="digital-wel s3-item">
                                     <div class="digital-img">
-                                        <a class="digital-icon" href="#"><img src="img/icon/lopard4.png" alt=""></a>
+                                        <a class="digital-icon" href="#"><img src="assests/theme/img/icon/lopard4.png" alt=""></a>
                                     </div>
 									<div class="digital-content">
 										<h4>Health & humanbody</h4>
@@ -206,7 +206,7 @@
 							<div class="digital-services">
 								<div class="digital-wel s5-item">
                                     <div class="digital-img">
-                                        <a class="digital-icon" href="#"><img src="img/icon/lopard5.png" alt=""></a>
+                                        <a class="digital-icon" href="#"><img src="assests/theme/img/icon/lopard5.png" alt=""></a>
                                     </div>
 									<div class="digital-content">
 										<h4>Media & entertainment</h4>
@@ -228,28 +228,28 @@
                         <div class="brand-content">
                             <div class="brand-items brand-carousel">
 								<div class="single-brand-item">
-									<a href="#"><img src="img/brand/1.png" alt=""></a>
+									<a href="#"><img src="assests/theme/img/brand/1.png" alt=""></a>
 								</div>
 								<div class="single-brand-item">
-									<a href="#"><img src="img/brand/2.png" alt=""></a>
+									<a href="#"><img src="assests/theme/img/brand/2.png" alt=""></a>
 								</div>
 								<div class="single-brand-item">
-									<a href="#"><img src="img/brand/3.png" alt=""></a>
+									<a href="#"><img src="assests/theme/img/brand/3.png" alt=""></a>
 								</div>
 								<div class="single-brand-item">
-									<a href="#"><img src="img/brand/4.png" alt=""></a>
+									<a href="#"><img src="assests/theme/img/brand/4.png" alt=""></a>
 								</div>
 								<div class="single-brand-item">
-									<a href="#"><img src="img/brand/5.png" alt=""></a>
+									<a href="#"><img src="assests/theme/img/brand/5.png" alt=""></a>
 								</div>
 								<div class="single-brand-item">
-									<a href="#"><img src="img/brand/6.png" alt=""></a>
+									<a href="#"><img src="assests/theme/img/brand/6.png" alt=""></a>
 								</div>
 								<div class="single-brand-item">
-									<a href="#"><img src="img/brand/1.png" alt=""></a>
+									<a href="#"><img src="assests/theme/img/brand/1.png" alt=""></a>
 								</div>
 								<div class="single-brand-item">
-									<a href="#"><img src="img/brand/2.png" alt=""></a>
+									<a href="#"><img src="assests/theme/img/brand/2.png" alt=""></a>
 								</div>
 							</div>
                         </div>
@@ -275,7 +275,7 @@
                             <div class="single-member">
                                 <div class="team-img">
                                     <a href="#">
-                                        <img src="img/team/t1.jpg" alt="">
+                                        <img src="assests/theme/img/team/t1.jpg" alt="">
                                     </a>
                                 </div>
                                 <div class="team-content text-center">
@@ -294,7 +294,7 @@
                             <div class="single-member">
                                 <div class="team-img">
                                     <a href="#">
-                                        <img src="img/team/t2.jpg" alt="">
+                                        <img src="assests/theme/img/team/t2.jpg" alt="">
                                     </a>
                                 </div>
                                 <div class="team-content text-center">
@@ -313,7 +313,7 @@
                             <div class="single-member">
                                 <div class="team-img">
                                     <a href="#">
-                                        <img src="img/team/t3.jpg" alt="">
+                                        <img src="assests/theme/img/team/t3.jpg" alt="">
                                     </a>
                                 </div>
                                 <div class="team-content text-center">
@@ -332,7 +332,7 @@
                             <div class="single-member">
                                 <div class="team-img">
                                     <a href="#">
-                                        <img src="img/team/t4.jpg" alt="">
+                                        <img src="assests/theme/img/team/t4.jpg" alt="">
                                     </a>
                                 </div>
                                 <div class="team-content text-center">

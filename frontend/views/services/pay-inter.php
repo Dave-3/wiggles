@@ -51,7 +51,7 @@
                                 <div class="clients-testi">
                                     <div class="single-review text-center">
                                         <div class="review-img ">
-                                            <img src="img/review/1.jpg" alt="">
+                                            <img src="assests/theme/img/review/1.jpg" alt="">
                                         </div>
                                         <div class="review-text">
                                             <p>selection consists fully of lower-cased or capital letters text maintains the amount of lines. When replacing a selection.</p>
@@ -80,7 +80,7 @@
                             <div class="col-md-12 col-sm-12 col-xs-12">
                                 <div class="single-page mar-well">
                                     <div class="page-img elec-page">
-                                        <img src="img/service/s1.png" alt="">
+                                        <img src="assests/theme/img/service/s1.png" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -117,7 +117,7 @@
                             <div class="col-md-6">
                                 <div class="single-page mar-well">
                                     <div class="page-img elec-page">
-                                        <img src="img/service/s2.png" alt="">
+                                        <img src="assests/theme/img/service/s2.png" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -136,7 +136,7 @@
                             <div class="col-md-6 col-sm-12 col-xs-12">
                                 <div class="single-page">
                                     <div class="page-img elec-page">
-                                        <img src="img/service/s3.png" alt="">
+                                        <img src="assests/theme/img/service/s3.png" alt="">
                                     </div>
                                 </div>
                             </div>
